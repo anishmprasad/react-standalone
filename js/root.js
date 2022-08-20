@@ -20,7 +20,7 @@
 function App(){
   return(
   <div>
-    <ShoppingList name="@luispagarcia on Dev.to!"/>
+    <ShoppingList name="demo"/>
   </div>
   )
 }
